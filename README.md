@@ -6,3 +6,4 @@
 
 Isreali Whist Android App- 
 play with 3 friends israeli whist, create and join custom rooms.
+code written by hand.
